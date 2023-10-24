@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Make an app",
+      "description": "Description #1",
+      "isDone": false,
+      "id": 1
+    },
+    {
+      "title": "Deploy an app",
+      "description": "Description #2",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "title": "Enjoy the app 😎",
+      "description": "Description #3",
+      "isDone": false,
+      "id": 3
+    }
+  ]
+}
